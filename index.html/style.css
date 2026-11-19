@@ -8,7 +8,9 @@ body {
   color: #eafaff;
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background: linear-gradient(rgb(8 21 34 / 65%), rgb(8 21 34 / 75%)), url("https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1920&q=80") center / cover fixed;
+  background: linear-gradient(rgb(8 21 34 / 65%), rgb(8 21 
+  34 / 75%)), url("https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1920&q=80") 
+  center / cover fixed;
 }
 
 .site-header, nav {
